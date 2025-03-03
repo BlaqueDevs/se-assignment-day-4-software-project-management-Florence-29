@@ -49,7 +49,7 @@ Knowing what tasks are required is a pre-requisite for getting the right staff o
 4. Risk management
 Schedule risk is one of the biggest factors to consider for risk management, especially on complex projects. A detailed view of your project schedule, the timeline, and resources required, enables the team to identify and act on risk more effectively, especially when it relates to tasks that are on the critical path.
 5. Stakeholder satisfaction
- a schedule is a critical asset for a project team, so the benefits of project scheduling are obvious. Without that roadmap to completion, there is every chance that the project will slip, deadlines will be missed and the result is less than satisfactory for clients.
+a schedule is a critical asset for a project team, so the benefits of project scheduling are obvious. Without that roadmap to completion, there is every chance that the project will slip, deadlines will be missed and the result is less than satisfactory for clients.
 Creating a gantt chart provides a total overview of the project from start to finish, the members involved in each step, and all the tasks required to complete the project.Once your project's gantt chart is complete, you now have a grip on the project. You can see it and visualize the steps to completion
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
@@ -62,13 +62,16 @@ A limited project with limited functionalities;
 An unoriginal solution, too similar to competitor products;
 A lack of competitive advantage or a clear business model.
 From the point of view of software development, if such risks materialize, you might have to make unplanned changes to the project, including its budget and schedule.
+
 Challenge 2: Lack of Communication
 Communication is the most important skill for any manager today. Without communication, you cannot manage people and software development.
 Ineffective communication may generate issues; your teams may not understand the project's goal, repeatedly ask the same questions, duplicate work, or carry out incorrect implementations. All this will increase team frustration and, ultimately, slow down their progress or even bring it to a complete halt. Consequently, your business may fail to meet your commitments, struggle with project delays and redundancy programs. Experienced programmers also rarely want to work on badly managed projects. 
+
  Challenge 3: Software Integration
 Integration is one of the most important phases of software development. Most hidden bugs come to light at this stage of the project. 
 The best way to address software integration is to rely on network services. In order to achieve integration and data flow between platforms, flexible network services must support SOAP (Simple Object Access Protocol) and REST (Representational State Transfer) protocol standards. A correct integration should enable you to move from file-based integration to network services integration.
 lack of it would lead to a system full of bugs or not functional at all.
+
 Challenge 4: Software Quality
 Low software quality involves a number of negative side effects, which directly translate into low customer satisfaction ratings. And, as you know, a dissatisfied customer is a customer who refuses to pay for your services, often breaks the contract, and signs on your competition. 
 If you frequently release low-quality solutions, customer loyalty will weaken, and they will leave, which spells lower performance and redundancy programs for your business.
